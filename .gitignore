@@ -1,0 +1,5 @@
+# pvcast config files
+pvcast/config/*
+
+# pvcast embedded library
+pvcast/pvcast
